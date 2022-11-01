@@ -1,3 +1,4 @@
+game:HttpGet("UrlHere",true))(); 
 local localPlayer=game.Players.LocalPlayer
 
 function highlightModel(objObject)
